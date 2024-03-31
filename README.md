@@ -80,6 +80,7 @@ https://github.com/orgs/community/discussions/66495
 https://chat.openai.com/
 https://github.com/lucas-novaesm/lotofacil-java
 
-#Rodando
-C:\Users\Gabriel\Videos\Captures\2024-03-31 18-06-02.mkv
+# Rodando
+![Captura de tela 2024-03-31 180953](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/c62e92c3-1eb9-4b75-a6b9-fa818bfa8dc3)
+
 
