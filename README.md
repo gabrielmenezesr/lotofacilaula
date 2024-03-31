@@ -79,3 +79,7 @@ https://github.com/carlosfernandino/Lotofacil.java/blob/main/2README.md
 https://github.com/orgs/community/discussions/66495
 https://chat.openai.com/
 https://github.com/lucas-novaesm/lotofacil-java
+
+#Rodando
+C:\Users\Gabriel\Videos\Captures\2024-03-31 18-06-02.mkv
+
