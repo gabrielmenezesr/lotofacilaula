@@ -81,6 +81,13 @@ https://chat.openai.com/
 https://github.com/lucas-novaesm/lotofacil-java
 
 # Rodando
+
+![Captura de tela 2024-03-31 180953](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/cf03b1d2-005d-4779-a344-9bac0270c200)
+
+![Captura de tela 2024-03-31 180946](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/00874d23-a90e-4088-9b78-289f46a7108a)
+
+![Captura de tela 2024-03-31 180931](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/a31439e2-ef39-4090-8a98-85db818aeb28)
+
 ![Captura de tela 2024-03-31 180953](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/c62e92c3-1eb9-4b75-a6b9-fa818bfa8dc3)
 
 
