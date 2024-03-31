@@ -83,8 +83,11 @@ https://github.com/lucas-novaesm/lotofacil-java
 # Rodando
 
 ![Captura de tela 2024-03-31 180953](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/8014f9da-aadc-47c0-bc58-5a5b37e5dc61)
+
 ![Captura de tela 2024-03-31 180946](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/6be8d857-7f58-49b4-ac8d-a1793b9ad974)
+
 ![Captura de tela 2024-03-31 180931](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/741fc885-6433-43e8-9507-ee55a72d8618)
+
 ![Captura de tela 2024-03-31 180906](https://github.com/gabrielmenezesr/lotofacilaula/assets/163942114/dcc4ed31-fd06-4292-919a-ff98ea12a3c2)
 
 
