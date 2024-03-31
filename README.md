@@ -1,8 +1,8 @@
-# lotofacilaula
+# Lotofacilaula
 
 PROJETO LOTOFÁCIL, criado em Java que demonstra sem interface gráfica um simulador de apostas bastante conhecido chamado "LotoFácil". 
 
-# requisitos 
+# Requisitos 
 
 Regras de negócio/requisitos:
 • Crie um menu para a loteria utilizando as estruturas switch case e do while. Enquanto
